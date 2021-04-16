@@ -1,0 +1,75 @@
+.navbar-brand{background:#20B2AA;
+	height: 75px;
+
+}
+.navbar-toggle{
+	float: right;
+}
+
+.heading{
+	text-align: center;
+}
+.li{
+	background: #B0C4DE;
+	width:500px;
+	height:25px;
+	border: 2px solid black;
+
+}
+
+.pink{
+	
+	text-align: center;
+	
+	margin:0%;
+	
+
+}
+
+.first{
+    background: grey;
+	color:black;
+	border: 2px solid black;
+	margin:10% auto;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+.red{
+	
+	
+	text-align: center;
+	margin: 0%;
+	
+
+
+}
+.second{
+        background: grey;
+	color:black;
+	border: 2px solid black;
+	margin: 10% auto;
+	margin-left: 10%;
+	margin-right: 10%;
+  }
+
+.yellow{
+	
+	
+	text-align: center;
+	margin: 0%;
+	
+
+}
+
+.third{
+    background: grey;
+	color:black;
+	border: 2px solid black;
+	margin: 10% auto;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+
+
